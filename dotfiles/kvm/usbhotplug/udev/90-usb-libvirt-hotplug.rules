@@ -1,0 +1,1 @@
+SUBSYSTEM=="usb",RUN+="/opt/usb-libvirt-hotplug/usb-libvirt-hotplug.sh win10"
